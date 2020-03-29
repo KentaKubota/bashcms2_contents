@@ -1,5 +1,5 @@
 ---
-Keywords:test
+Keywords: test
 Copyright: (C) 2017 Ryuichi Ueda
 ---
 
